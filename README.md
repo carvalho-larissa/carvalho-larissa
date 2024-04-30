@@ -5,4 +5,3 @@
 - 📖 My goal as a professional is to be able to find creative opportunities for business problems, always looking for continuous learning.
 - 🔢 Just started my career transition to data engineering
 
-![Snake animation](https://github.com/carvalho-larissa/carvalho-larissa/blob/output/github-contribution-grid-snake.svg)
