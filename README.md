@@ -1,4 +1,4 @@
-###👋 Hi there, I'm Larissa! ✨
+##👋 Hi there, I'm Larissa! ✨
 
 - 💬 I’m currently working on International Trade solutions
 - 🤖 I’m passionate about programming and data science, I like to make discoveries, study trends and apply best practices to always make decisions based on numbers.
